@@ -32,7 +32,7 @@
     
 
 - name: Face recognition and Verification
-  descr: "You can also set a project without demo link and no tags"
+  descr: Face detection from a sample image and recognition and verification of person's identity based on single image of person from database. 
   tags:
     - tag: Python
     - tag: Tensorflow
