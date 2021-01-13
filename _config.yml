@@ -14,7 +14,8 @@ baseurl: "/neumorphism"
 username: Abhishek Kumar
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Aspiring Data Scientist ; AI/ML Enthusiast
+typing_text: Aspiring Data Scientist
+typing_text: AI/ML Enthusiast
 # email: Your E-Mail address for the email button.
 email: inbox.mrkumar@gmail.com
 # For every social button you want to display, set your username or userid
