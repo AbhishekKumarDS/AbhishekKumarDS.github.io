@@ -33,10 +33,10 @@
   weight: 2
 
 - name: Dplyr
-  weight: 3
+  weight: 2
 
 - name: GGplot2
-  weight: 3
+  weight: 2
 
 - name: Lubridate
   weight: 2
