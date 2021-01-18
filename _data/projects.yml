@@ -14,8 +14,7 @@
 #     - tag: Node
 
 - name: Neural Network FPGA Implementation
-  descr: Implementation of a neural network for handwritten digit recognition on an FPGA, with an 86% accuracy, and a >50ms inference time.
-  demo: https://example.com/
+  descr: Implementation of a neural network for handwritten digit recognition on an FPGA, with an 86% accuracy, and a <50ms inference time.
   tags:
     - tag: Verilog
     - tag: C
@@ -24,18 +23,19 @@
     - tag: MATLAB
 
 - name: Deep Learning Super- Resolution
-  descr: Developing a novel Deep learning based model to estimate the High Resolution image (up to 16x) given a Low Resolution image
+  descr: Developing a novel attention/GAN based Deep learning model to estimate the High Resolution image (up to 16x) given a Low Resolution image.
+  demo: https://drive.google.com/file/d/1mKJZDQ31uctexB0OlheDZcW43-ZyY_JF/view?usp=sharing
   tags:
     - tag: Python
     - tag: Pytorch
-    - tag: ENVI
+    - tag: Colab
     
 
 - name: Face recognition and Verification
   descr: Face detection from a sample image and recognition and verification of person's identity based on single image of person from database. 
   tags:
     - tag: Python
-    - tag: Tensorflow
+    - tag: TensorFlow
     - tag: bash
     
   
