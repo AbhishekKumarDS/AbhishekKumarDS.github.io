@@ -31,7 +31,16 @@
   {% else %}
     {% assign sort_order = 'pushed_at' %}
   {% endif %}
-
+  
+  {% if site.projects.exclude.archived && site.projects.exclude.forks %}
+    {% assign filtered_repos = site.github.public_repositories | where:'archived', false | where:'fork', false | sort: sort_order | reverse %}
+  {% elsif site.projects.exclude.archived %}
+    {% assign filtered_repos = site.github.public_repositories | where:'archived', false | sort: sort_order | reverse %}
+  {% elsif site.projects.exclude.forks %}
+    {% assign filtered_repos = site.github.public_repositories | where:'fork', false | sort: sort_order | reverse %}
+  {% else %}
+    {% assign filtered_repos = site.github.public_repositories | sort: sort_order | reverse %}
+  {% endif %}
   
 
   <div class="projects-wrapper">
@@ -49,7 +58,7 @@
                   </svg>{{ repository.stargazers_count }}
                 </a>
                 {% endif %}
-                {% if repository.forks_count != 0 %}
+                {% if repository.forks_count == 0 %}
                 <a href="{{ repository.html_url }}/network/members" class="project-stars-forks">
                   <svg viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
                     <path fill-rule="evenodd"
