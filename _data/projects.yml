@@ -33,6 +33,7 @@
 
 - name: Face recognition and Verification
   descr: Face detection from a sample image and recognition and verification of person's identity based on single image of person from database. 
+  demo: https://abhishekkumards.medium.com/identifying-faces-with-mtcnn-and-vggface-9d0d4927cccf
   tags:
     - tag: Python
     - tag: TensorFlow
