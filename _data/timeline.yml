@@ -17,6 +17,29 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Noodle.AI
+  title-url: https://noodle.ai/
+  date: April 2021 - Present
+  subtitle: Machine Learning Engineer
+  tags:
+    - tag: Python
+    - tag: git
+    - tag: Kubeflow
+    - tag: Flask
+    - tag: C
+  timeline-side: right
+ 
+- title: Indian Institute of Science, Bangalore
+  title-url: https://iisc.ac.in/
+  date: Feb 2021 - Present
+  subtitle: Deep Learning Research Assistant
+  tags:
+    - tag: Python
+    - tag: Tensorflow
+    - tag: Pytorch
+    - tag: Jupyter
+  timeline-side: left
+  
 - title: Foxarco Technologies
   title-url: https://www.foxarco.com/
   date: Aug 2020 - Present
