@@ -19,12 +19,3 @@
 
 - name: HTML5
   weight: 3
-
-- name: Java
-  weight: 1
-
-- name: Verilog
-  weight: 1
-
-- name: Ruby
-  weight: 2
