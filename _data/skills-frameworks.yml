@@ -7,17 +7,11 @@ ns# > name: Name of your framework
 
 - name: Git
   weight: 5
-
-- name: Kubeflow
-  weight: 5
   
 - name: NumPy
   weight: 5
 
 - name: Pandas
-  weight: 5
-  
-- name: Jupyter
   weight: 5
   
 - name: Jenkins
