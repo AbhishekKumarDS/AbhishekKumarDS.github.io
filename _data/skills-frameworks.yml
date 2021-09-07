@@ -1,18 +1,27 @@
-# > name: Name of your framework
+ns# > name: Name of your framework
 # > weight: Describes how good you know the framework - values from 1 up to 5
 #
 # Example of a framework
 # - name: Framework
 #   weight: 5
 
+- name: Git
+  weight: 5
+
+- name: Kubeflow
+  weight: 5
+  
 - name: NumPy
   weight: 5
 
 - name: Pandas
   weight: 5
-
-- name: SKlearn
-  weight: 4
+  
+- name: Jupyter
+  weight: 5
+  
+- name: Jenkins
+  weight: 3
 
 - name: Pytorch
   weight: 5
@@ -23,23 +32,8 @@
 - name: Flask
   weight: 3
 
-- name: Node
-  weight: 1
-
 - name: Matplotlib
   weight: 3
 
 - name: Seaborn
-  weight: 2
-
-- name: Dplyr
-  weight: 2
-
-- name: GGplot2
-  weight: 2
-
-- name: Lubridate
-  weight: 2
-
-- name: Caret
   weight: 2
