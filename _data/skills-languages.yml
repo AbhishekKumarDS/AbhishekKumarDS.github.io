@@ -10,15 +10,12 @@
 
 - name: R
   weight: 4
-
-- name: C++
-  weight: 3
   
-- name: C
-  weight: 3
+- name: C/C++
+  weight: 2
 
 - name: HTML5
   weight: 3
 
 - name: Java
-  weight: 3
+  weight: 1
