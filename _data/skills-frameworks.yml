@@ -5,26 +5,23 @@
 # - name: Framework
 #   weight: 5
 
-- name: Git
-  weight: 4
-  
 - name: NumPy
-  weight: 5
+  weight: 4
 
 - name: Pandas
-  weight: 5
+  weight: 4
   
 - name: Jenkins
   weight: 3
 
 - name: Pytorch
-  weight: 5
+  weight: 4
 
 - name: Tensorflow
   weight: 4
 
 - name: Flask
-  weight: 5
+  weight: 4
 
 - name: Matplotlib
   weight: 2
