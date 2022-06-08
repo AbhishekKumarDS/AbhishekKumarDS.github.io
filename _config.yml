@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Who Am I?
 # about_me_description: This will be displayed under the title.
-about_me_description: Passionate and hardworking MLOps Engineer AI\DS enthusiast. Highly imaginative with many innovative ideas and a hunger to learn. Works well in a high pressure environment. Seeking an opportunity to Explore And Develop In The AIML Field under a winning enterprise.
+about_me_description: Passionate and hardworking MLOps Engineer and an AI\DS enthusiast. Highly imaginative with many innovative ideas and a hunger to learn. Works well in a high pressure environment. Seeking an opportunity to Explore And Develop In The AIML Field under a winning enterprise.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://docs.google.com/document/d/1IAkB9HzIRcL1Z2tYTzIAqQPyBZULl0vRKiEZf_jJlbg/edit?usp=sharing
+cv_download_link: https://drive.google.com/file/d/1NHVWOqt12FKtL7TSCN4SzZSuhjDm1J6A/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -110,7 +110,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-158757509-2"
+  id: "G-EKYT8XWP5T"
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
