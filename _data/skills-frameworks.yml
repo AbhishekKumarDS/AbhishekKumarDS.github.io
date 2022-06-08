@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
+  weight: 4
   
 - name: NumPy
   weight: 5
@@ -21,13 +21,13 @@
   weight: 5
 
 - name: Tensorflow
-  weight: 5
+  weight: 4
 
 - name: Flask
-  weight: 3
+  weight: 5
 
 - name: Matplotlib
-  weight: 3
+  weight: 2
 
 - name: Seaborn
   weight: 2
