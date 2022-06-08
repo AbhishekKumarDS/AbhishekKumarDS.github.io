@@ -5,7 +5,7 @@
 # - name: Git
 #   weight: 5
 
-- name: Google Cloud Platform
+- name: GCP/AWS
   weight: 3
 
 - name: Druid
@@ -27,7 +27,7 @@
   weight: 2
 
 - name: Docker
-  weight: 5
+  weight: 4
 
 - name: Android Studio
   weight: 2
