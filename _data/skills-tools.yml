@@ -8,17 +8,23 @@
 - name: Google Cloud Platform
   weight: 3
 
-- name: Jupyter Notebook
+- name: Druid
+  weight: 5
+
+- name: Jupyter Labs
   weight: 5
 
 - name: Kubeflow
-  weight: 5
+  weight: 4
+
+- name: Dagster
+  weight: 2
 
 - name: Git
   weight: 5
 
 - name: MATLAB
-  weight: 4
+  weight: 2
 
 - name: Docker
   weight: 5
@@ -27,7 +33,7 @@
   weight: 2
 
 - name: Heroku CLI
-  weight: 3
+  weight: 2
 
 - name: MS Office
-  weight: 4
+  weight: 2
