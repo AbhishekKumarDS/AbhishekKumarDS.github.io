@@ -17,10 +17,24 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Noodle.AI
+- title: Senior Data Scientist
+  title-url: https://ez.works/
+  date: Sep 2022 - Present
+  subtitle: EZ.works
+  tags:
+    - tag: Python
+    - tag: Dagster
+    - tag: Pytorch
+    - tag: LLMs
+    - tag: Apache Spark
+    - tag: Jenkins
+    - tag: AWS
+  timeline-side: left
+
+- title: Machine Learning Engineer
   title-url: https://noodle.ai/
-  date: April 2021 - Present
-  subtitle: Machine Learning Engineer
+  date: April 2021 - Aug 2022
+  subtitle: Noodle.AI
   tags:
     - tag: Python
     - tag: Druid
@@ -28,23 +42,22 @@
     - tag: Flask
     - tag: postgreSQL
     - tag: Jenkins
-    - tag: AWS
   timeline-side: right
  
-- title: Indian Institute of Science, Bangalore
+- title: Deep Learning Research Assistant
   title-url: https://iisc.ac.in/
   date: Feb 2021 - April 2021
-  subtitle: Deep Learning Research Assistant
+  subtitle: Indian Institute of Science, Bangalore
   tags:
     - tag: Python
     - tag: Pytorch
     - tag: Jupyter
   timeline-side: left
   
-- title: Foxarco Technologies
+- title: Machine Learning Engineer
   title-url: https://www.foxarco.com/
-  date: Aug 2020 - Present
-  subtitle: Machine Learning Engineer
+  date: Aug 2020 - Jan 2021
+  subtitle: Foxarco Technologies
   tags:
     - tag: Python
     - tag: Tensorflow
@@ -53,20 +66,20 @@
     - tag: C
   timeline-side: right
 
-- title: IIT Kharagpur
+- title: Research Intern
   title-url: http://www.iitkgp.ac.in/
   date: June 2019 - July 2019
-  subtitle: Research Intern
+  subtitle: IIT Kharagpur
   tags:
     - tag: C++
     - tag: MATLAB
     - tag: C
   timeline-side: left
   
-- title: Linkstreet
+- title: Analytics Intern
   title-url: https://linkstreet.in/
   date: June 2018 - July 2018
-  subtitle: Analytics Intern
+  subtitle: Linkstreet
   tags:
     - tag: MS Excel
     - tag: R
