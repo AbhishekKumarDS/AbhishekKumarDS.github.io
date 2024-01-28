@@ -14,7 +14,7 @@ baseurl: "/neumorphism"
 username: Abhishek Kumar
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Full Stack ML Engineer", "Data Science Enthusiast
+typing_text: Full Stack Data Scientist", "AGI Enthusiast
 # email: Your E-Mail address for the email button.
 email: inbox.mrkumar@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Who Am I?
 # about_me_description: This will be displayed under the title.
-about_me_description: Passionate and hardworking MLOps Engineer and an AI\DS enthusiast. Highly imaginative with many innovative ideas and a hunger to learn. Works well in a high pressure environment. Seeking an opportunity to Explore And Develop In The AIML Field under a winning enterprise.
+about_me_description: Data Scientist with 3 years of expertise in the innovation & execution of AI powered solutions. Proven track record of project leadership with effective communication of technical ideas, fostering collaborative achievements.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://docs.google.com/document/d/1IAkB9HzIRcL1Z2tYTzIAqQPyBZULl0vRKiEZf_jJlbg/edit?usp=sharing
+cv_download_link: https://drive.google.com/file/d/1i2HUNm3MlbFOh8y2QeHnxjkjrCsvsYHH/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
