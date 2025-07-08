@@ -17,9 +17,22 @@
 #     - tag: Rails
 #   timeline-side: right
 
+
 - title: Senior Data Scientist
+  title-url: https://fractal.ai/
+  date: Jul 2025 - Present
+  subtitle: Fractal
+  tags:
+    - tag: Python
+    - tag: Langchain
+    - tag: Pytorch
+    - tag: LLMs
+    - tag: AWS
+  timeline-side: right
+
+- title: Data Scientist / Senior Data Scientist
   title-url: https://ez.works/
-  date: Sep 2022 - Present
+  date: Sep 2022 - Jun 2025
   subtitle: EZ.works
   tags:
     - tag: Python
